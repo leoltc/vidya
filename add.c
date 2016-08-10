@@ -7,6 +7,6 @@ scanf("%d %d", &a,&b);
 c=a+b;
 printf("Addition: %d\n",c);
 d=a-b;
-printf("difference: %d\n", d);
+printf("Difference: %d\n", d);
 return 0;
 }
